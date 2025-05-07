@@ -11,8 +11,7 @@ This machine is made with a scrap Geeetech i3, Singer Featherweight sewing machi
 
 # Demonstration
 
-https://github.com/user-attachments/assets/5bf34df2-25b1-4734-831d-a2588f83bb4b
-https://github.com/user-attachments/assets/c606006a-a173-480e-a747-c1362374affb
+https://github.com/user-attachments/assets/c606006a-a173-480e-a747-c1362374affb](https://youtube.com/shorts/SnJd-H4FVdg)
 
 
 
