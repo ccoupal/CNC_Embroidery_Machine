@@ -10,7 +10,7 @@ This machine is made with a scrap Geeetech i3, Singer Featherweight sewing machi
 <img width="574" alt="Screenshot 2025-05-06 at 9 12 26 PM" src="https://github.com/user-attachments/assets/736eb414-3124-4d6c-a385-e6072b2ddf93" />
 
 # Demonstration
-[Universal G code Sender](https://youtube.com/shorts/HnBqnx8TASg))
+[Universal G code Sender](https://youtube.com/shorts/HnBqnx8TASg)
 
 
 
