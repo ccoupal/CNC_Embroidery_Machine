@@ -58,6 +58,8 @@ Free Motion Sewing: https://singer-featherweight.com/blogs/schoolhouse/how-to-fr
 1. Building the X-Y gantry was done by taking apart a 3-d printer, removing an axis, and botling 2 axis together. With custom 3-d printed parts and brackets I managed to attach an embrodiery hoop to a sewing machine with a "free motion" sewing attachment. This will be differnet for every machine and gantry.
 <img width="403" alt="Screenshot 2025-05-07 at 10 49 42 AM" src="https://github.com/user-attachments/assets/56e46b35-95d3-4e31-aad1-0220c8c34dbb" />
 
+2.Make sure free motion sewing works without gantry use, for me this was most of the troubleshooting with machine settings, thread types, and fabric types.
+
 3. Change config within GRBL to included modified config file for 2-axis use only. This removes Z from the homing cycle.
 
 4. Open .grbl within Arudino and then upload it as an example to Arduino UNO.
@@ -78,3 +80,7 @@ https://www.instructables.com/CNC-SewingEmbroidery-Machine/
 https://builds.openbuilds.com/builds/diy-embroidery-machine-v2.8630/
 https://inkstitch.org/tutorials/embroidery-machine/
 
+# Future Work
+- Implementing a dedicated G-code sender using files made for embrodiery, could be done with a posting, CAM software, and custom .svgs.
+- Add relay for sewing machine control futher automating the machine.
+- Test build volume and possibly move to a larger machine. 
