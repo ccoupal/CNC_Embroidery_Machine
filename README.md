@@ -49,5 +49,20 @@ GRBL: https://github.com/gnea/grbl
 
 Arduino IDE: https://www.arduino.cc/en/software/
 
+## Running the CNC as a sewing machine
 
+Complete CNC Shield Guide: https://www.diyengineers.com/2023/01/05/grbl-with-arduino-cnc-shield-complete-guide/
+
+Free Motion Sewing: https://singer-featherweight.com/blogs/schoolhouse/how-to-free-motion-quilt?srsltid=AfmBOoqhx90eNL3T1ediQ6KxdHOiFjEYng9hg91dZrG5tQKM3qK08ryc
+
+1. Building the X-Y gantry was done by taking apart a 3-d printer, removing an axis, and botling 2 axis together. With custom 3-d printed parts and brackets I managed to attach an embrodiery hoop to a sewing machine with a "free motion" sewing attachment. This will be differnet for every machine and gantry.
+<img width="403" alt="Screenshot 2025-05-07 at 10 49 42 AM" src="https://github.com/user-attachments/assets/56e46b35-95d3-4e31-aad1-0220c8c34dbb" />
+
+
+
+3. Change config within GRBL to included modified config file for 2-axis use only. This removes Z from the homing cycle.
+
+4. Open .grbl within Arudino and then upload it as an example to Arduino UNO.
+
+5. Use setup wizard to connect machine>
 
