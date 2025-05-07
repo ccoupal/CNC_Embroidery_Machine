@@ -14,8 +14,9 @@ This machine is made with a scrap Geeetech i3, Singer Featherweight sewing machi
 
 [Universal G code Sender](https://youtube.com/shorts/SnJd-H4FVdg)
 
+This machine runs off a universal G-code sender with built in tool paths. This application can create tool paths directly from clipart or scaled vector graphic (.svg). 
 
-
+# Build Materials and Installation Instructions
 Build Materials:
 
 GeeeTech Pruis i3 used for: 
@@ -38,3 +39,8 @@ Arduino Uno with:
 - Eletronics housing
 - fabric hoop
 - sewing machine connection
+
+Required Software Downloads:
+https://winder.github.io/ugs_website/
+
+
