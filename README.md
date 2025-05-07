@@ -41,6 +41,11 @@ Arduino Uno with:
 - sewing machine connection
 
 Required Software Downloads:
-https://winder.github.io/ugs_website/
+
+Universal G-Code Sender: https://winder.github.io/ugs_website/
+
+GRBL: https://github.com/gnea/grbl
+
+Arduino IDE: https://www.arduino.cc/en/software/
 
 
