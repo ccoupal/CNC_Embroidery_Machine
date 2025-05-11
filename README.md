@@ -95,12 +95,14 @@ To this!
 10. Save the file-which produces the g code and tool paths. 
 <img width="625" alt="Screenshot 2025-05-07 at 11 01 52 AM" src="https://github.com/user-attachments/assets/d05c5e1e-c553-468b-bf0c-a8e0ee7b7b26" />
 
-11. Use jog machine to position and test range. Then start embroidering. 
+11. Use jog machine to position and test range. Then start embroidering by using the sewing machine slider, and pressing "send" on the G-code sender. 
 <img width="326" alt="Screenshot 2025-05-07 at 11 02 05 AM" src="https://github.com/user-attachments/assets/bf4af091-b874-4335-a120-36a326a926cf" />
 
 ## References
 https://www.instructables.com/CNC-SewingEmbroidery-Machine/
+
 https://builds.openbuilds.com/builds/diy-embroidery-machine-v2.8630/
+
 https://inkstitch.org/tutorials/embroidery-machine/
 
 # Future Work
