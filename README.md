@@ -89,13 +89,13 @@ To this!
 
 ![Screenshot 2025-05-11 at 1 35 26 PM](https://github.com/user-attachments/assets/b259fc5f-6e54-453a-8eb3-15d7db0552a8)
 
-9. Import design as .svg or other, select "mill pocket", tool diamater (density)
+9. Select "new design". Using an .svg import a file that you'd like to base your desing off of. Tool density sets your thread spacing so pkaying with that changes how your design shows. Use 50mm/m speeds all around, this was fast enough to not use excess thread but slow enough to operate correctly and not jam.   
 <img width="993" alt="Screenshot 2025-05-07 at 11 01 32 AM" src="https://github.com/user-attachments/assets/48abdda6-54f2-474b-8c96-d1a6e601f187" />
 
-10. Save file-produces g-code
+10. Save the file-which produces the g code and tool paths. 
 <img width="625" alt="Screenshot 2025-05-07 at 11 01 52 AM" src="https://github.com/user-attachments/assets/d05c5e1e-c553-468b-bf0c-a8e0ee7b7b26" />
 
-11. Use jog machine to position and test range.
+11. Use jog machine to position and test range. Then start embroidering. 
 <img width="326" alt="Screenshot 2025-05-07 at 11 02 05 AM" src="https://github.com/user-attachments/assets/bf4af091-b874-4335-a120-36a326a926cf" />
 
 ## References
