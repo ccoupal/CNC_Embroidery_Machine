@@ -14,7 +14,7 @@ This machine is made with a scrap Geeetech i3, Singer Featherweight sewing machi
 
 [Universal G code Sender](https://youtube.com/shorts/SnJd-H4FVdg)
 
-This machine runs off a universal G-code sender with built in tool paths. This application can create tool paths directly from clipart or scaled vector graphic (.svg). 
+This machine runs off a universal G-code sender using built in tool paths. This application can create tool paths directly from clipart or scaled vector graphic (.svg). 
 
 # Build Materials and Installation Instructions
 
