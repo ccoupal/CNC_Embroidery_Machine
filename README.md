@@ -1,7 +1,7 @@
 # CNC Embroidery Machine
 
 ## Motivation and Overview
-I was motivated to work on this project follwing a year working in a machine shop where CNCs are used. I have had some expierence programming, setting up, and running these machines. I wanted to build something of a cnc machine for myself.
+I was motivated to work on this project follwing a year working in a CNC machine shop. I have had some expierence programming, setting up, and running these machines. I wanted to build some version of a cnc machine for myself.
 
 I am an avid sewer and designer of oudoor gear, I sell these items to friends and other like minded individials. Doing embridery could add value to my items and not cost me much money.
 
