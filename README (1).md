@@ -126,8 +126,8 @@ Use the UGS setup wizard to connect to your machine. Connection settings:
 ### 6. Create Embroidery Toolpaths
 
 1. Click “New Design” and import an SVG file.
-2. Adjust tool density (thread spacing).
-3. Recommended speed: 50 mm/min.
+2. Adjust tool diameter (thread spacing).
+3. Recommended feed and jog speed: 50 mm/min.
 
 ![SVG Import](https://github.com/user-attachments/assets/48abdda6-54f2-474b-8c96-d1a6e601f187)
 
@@ -135,7 +135,7 @@ Use the UGS setup wizard to connect to your machine. Connection settings:
 ![G-code Export](https://github.com/user-attachments/assets/d05c5e1e-c553-468b-bf0c-a8e0ee7b7b26)
 
 5. Use the jog feature to position the needle and test range.
-6. Start the embroidery process by pressing "Send" in UGS and manually activating the sewing machine.
+6. Start the embroidery process by pressing "Send" in UGS and manually activating the sewing machine slider.
 
 ![Sending G-code](https://github.com/user-attachments/assets/bf4af091-b874-4335-a120-36a326a926cf)
 
