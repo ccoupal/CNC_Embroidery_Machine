@@ -83,7 +83,7 @@ To this!
 
 <img width="600" alt="Screenshot 2025-05-11 at 1 33 40 PM" src="https://github.com/user-attachments/assets/53f56fed-0207-4a68-b0de-e353d147b256" />
 
-7. Use setup wizard to connect machine within Universal G-Code Sender. Use these paramters.
+7. Use setup wizard to connect machine within Universal G-Code Sender. Use these paramaters.
 
 ![Screenshot 2025-05-11 at 1 35 12 PM](https://github.com/user-attachments/assets/c0be8943-7ddf-404c-bbaa-f2114846b442)
 
