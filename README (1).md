@@ -116,7 +116,7 @@ To upload GRBL:
 
 ### 5. Connect to UGS
 
-Use the UGS setup wizard to connect to your machine. Recommended settings:
+Use the UGS setup wizard to connect to your machine. Connection settings:
 
 ![UGS Setup 1](https://github.com/user-attachments/assets/c0be8943-7ddf-404c-bbaa-f2114846b442)  
 ![UGS Setup 2](https://github.com/user-attachments/assets/b259fc5f-6e54-453a-8eb3-15d7db0552a8)
